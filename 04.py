@@ -7,4 +7,4 @@ for i in arquivo:
     print(i[::-1])
 arquivo.close()
 
-arquivo.close()
+
